@@ -9,4 +9,7 @@ public class Demo1 {
         System.out.println("hello git");
         System.out.println("hello git");
     }
+    public void test01(){
+        System.out.println("修改测试数据1");
+    }
 }
